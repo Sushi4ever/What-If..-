@@ -1,0 +1,165 @@
+.principal{
+    background-image: url("../Imágenes/Fondowhatif.jpg"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.exploradores{
+    background-image: url("../Imágenes/fondo\ exploradores.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+}
+
+.espias{
+    background-image: url("../Imágenes/fondoespias.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.harry{
+    background-image: url("../Imágenes/fondoharry.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.historia{
+    background-image: url("../Imágenes/Fondowhatif.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.viajes{
+    background-image: url("../Imágenes/fondoviajes.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.piratas{
+    background-image: url("../Imágenes/fondopiratas.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1{
+    font-family: 'Birthstone', cursive;
+    color: indianred;
+    font-size: 90px;
+}
+
+h1 span{
+    font-family: 'Architects Daughter', cursive;
+    color: black;
+    font-size: 25px;
+}
+
+h2{
+    font-family: 'Architects Daughter', cursive ;
+    font-size: 30px;
+}
+
+p {
+    font-family: cursive;
+    font-size: 18px;
+    color: black;
+}
+
+ul{
+    font-family: cursive;
+    font-size: 18px;
+}
+
+.subtitulo{
+    font-family: 'Architects Daughter', cursive;
+    color: black;
+    font-size: 30px;
+}
+
+.subtituloblanco{
+    font-family: 'Architects Daughter', cursive;
+    color: white;
+    font-size: 30px;
+}
+.eventosposiblesblanco{
+    color: white;
+}
+
+.textoblancoespias{
+    color: white;
+}
+
+.textoblancoexploradores{
+    color: white;
+}
+
+.a{
+    color: black;
+    font-family: cursive;
+    padding: 10px 30px 10px 30px;
+    font-size: 18px;
+}
+
+.ablanco{
+    color: white;
+    font-family: cursive;
+    padding: 10px 30px 10px 30px;
+    font-size: 18px
+}
+
+nav{
+    border: 3px rgb(238, 107, 107) solid;
+    padding: 10px 10px 10px 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 60px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    background-color: lightcoral;
+}
+
+a:hover{
+    background-color: rgb(243, 156, 156);
+    color: black;
+}
+
+a:active{
+   background-color:lightcoral;
+   border: 3px rgb(243, 156, 156) outset; 
+}
+
+.img-fluid{
+    margin: 10px
+}
+
+video{
+    margin: 9px
+}
+
+.btn{
+      background-color: lightcoral;
+}
+
+.card{
+    margin-bottom: 30px;
+}
+
+h5{
+    font-family: 'Architects Daughter', cursive;
+    color: black;
+    font-size: 25px;
+}
+
+#carouselExampleIndicators{
+    margin: 30px;
+}
