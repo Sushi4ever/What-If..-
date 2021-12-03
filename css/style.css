@@ -101,14 +101,14 @@ ul{
 
 .a{
     color: black;
-    font-family: cursive;
+    font-family: 'Comic Neue', cursive;
     padding: 10px 30px 10px 30px;
     font-size: 18px;
 }
 
 .ablanco{
     color: white;
-    font-family: cursive;
+    font-family: 'Comic Neue', cursive;
     padding: 10px 30px 10px 30px;
     font-size: 18px
 }
